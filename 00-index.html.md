@@ -1,5 +1,5 @@
 ---
-title: Welcome to the MailChimp Content Style Guide
+title: Welcome to the Edwards Kenny & Bray Content Style Guide
 layout: article
 ---
 
