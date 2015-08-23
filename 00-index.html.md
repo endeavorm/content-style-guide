@@ -3,9 +3,9 @@ title: Welcome to the Edwards Kenny & Bray Content Style Guide
 layout: article
 ---
 
-This style guide was created for MailChimp employees, but we hope it’s helpful for other content and communications teams too.
+This style guide was created for EKB employees, but we hope it’s helpful for other content and communications teams too.
 
-## If you work at MailChimp
+## If you work at EKB
 
 This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for MailChimp.
 
